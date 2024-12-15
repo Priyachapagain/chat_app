@@ -15,19 +15,19 @@ ChatApp is a real-time messaging application that allows users to register, logi
 
 ### User Registration
 
-![User Registration](https://drive.google.com/file/d/1Jsju4N5x5zVwkuvs2RMrtjkJ74qN6lFw/view)
+<img src="https://github.com/Priya129/chat_app/blob/main/assets/image3.jpg" alt="Product List" height="300"/>)
 
 ### User Login
 
-![User Login](https://drive.google.com/file/d/1JvjgBxu_NgBOGD2jxIu28gsCZD5s2cuh/view?usp=sharing)
+<img src="https://github.com/Priya129/chat_app/blob/main/assets/image4.jpg" alt="Product List" height="300"/>)
 
 ### Chat List
 
-![Chat List](https://drive.google.com/file/d/1JxmVVugxJ3PFMaFmkVuI4F3UpOUBKrfe/vie)
+<img src="https://github.com/Priya129/chat_app/blob/main/assets/image2.jpg" alt="Product List" height="300"/>)
 
 ### Real-time Messaging
 
-![Real-time Messaging](https://drive.google.com/file/d/1JyFguq1Psg3V6-dYCl5OQEv7slYeWC9I/view)
+<img src="https://github.com/Priya129/chat_app/blob/main/assets/image1.jpg" alt="Product List" height="300"/>)
 
 ## Video Demo
 
