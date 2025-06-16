@@ -21,7 +21,7 @@ const JWT_SECRET = process.env.JWT_SECRET;
 
 mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true });
 
-// User Schema (removed profilePicture field)
+// User Schema 
 const UserSchema = new mongoose.Schema({
   email: { type: String, required: true, unique: true },
   password: { type: String, required: true },
@@ -38,7 +38,7 @@ const MessageSchema = new mongoose.Schema({
 });
 const Message = mongoose.model('Message', MessageSchema);
 
-// User registration (removed profilePicture handling)
+// User registration 
 app.post('/register', async (req, res) => {
   const { email, password, username } = req.body;
 
