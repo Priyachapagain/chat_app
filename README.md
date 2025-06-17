@@ -29,11 +29,6 @@ ChatApp is a real-time messaging application that allows users to register, logi
 
 <img src="https://github.com/Priya129/chat_app/blob/main/assets/image1.jpg" alt="Product List" height="300"/>)
 
-## Video Demo
-
-[![Watch the video]](https://drive.google.com/file/d/1KCXDxhFhWBPdHmGR1e3M25Y7Uy_Knwc-/view?usp=sharing)
-
-
 ## Technologies Used
 
 ### Backend
